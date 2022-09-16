@@ -40,18 +40,14 @@ a:link {
   a:active {
     text-decoration: underline;
   }
-
   /* unvisited link */
 a:link {
     color: #F6F6F6;
   }
-  
   /* visited link */
   a:visited {
     color: #FF7777;
   }
-  
-  
   /* selected link */
   a:active {
     color: #FFB200;
